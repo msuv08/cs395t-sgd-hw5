@@ -1,4 +1,4 @@
-# Stochastic Gradient Descent for Linear Least Squares (HW5, Q4)
+# SGD for Linear Least Squares (HW5, Q4)
 
 ## Overview
 
